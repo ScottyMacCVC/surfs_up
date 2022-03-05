@@ -21,9 +21,9 @@
  
 ---
 ### Two Additional Queries for Weather in June & December
-- **1** The
+- **1** The humidity is a major factor in tropical climates. Temperatures can be low with high humidity and create a hotter enviornment, more primed for an ice cream business. We should measure this trait. 
 
-- **2** Rural
+- **2** The wind can play a factor in ice cream as well. No one wants to see sand blown into their ice cream cone. We should measure the windiness of an area to avoid opening our business in higher than typical wind areas. 
 
 
 ## Resources
